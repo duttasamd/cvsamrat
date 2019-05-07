@@ -67,7 +67,7 @@ html {
   }
   
   .my-name {
-    font-size: 48px;
+    font-size: 42px;
     line-height: 1;
   }
   
@@ -101,6 +101,13 @@ html {
     margin-bottom: 24px;
     border-bottom: 1px solid lightgrey;
   }
+
+  
+
+  .job2 {
+    padding-bottom: 12px;
+    margin-bottom: 0;
+  }
   
   .job:last-child {
     border-bottom: none;
@@ -132,6 +139,10 @@ html {
   .skills-container ul {
     margin-left: 20px;
     list-style-type: disc;
+  }
+
+  .margin10 {
+    margin-top: 5%;
   }
   
   /***********************************
