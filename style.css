@@ -12,10 +12,6 @@ html {
     color: #323232;
   }
   
-  img {
-    max-width: 100%;
-  }
-  
   .icon {
     fill: currentColor;
     display: inline-block;

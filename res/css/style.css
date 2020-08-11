@@ -1,0 +1,15 @@
+.dashli ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.dashli li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.dashli li:before {
+  content: "-";
+  padding-right: 5px;
+}
